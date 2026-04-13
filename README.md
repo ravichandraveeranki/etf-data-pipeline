@@ -22,6 +22,8 @@ Run the pipelines using:
 ```bash
 python main.py SPY
 ```
+Then enter ticker when prompted:
+SPY
 
 
 ##  Features Added
