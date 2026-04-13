@@ -1,4 +1,4 @@
-# ETF Data Pipeline
+# 🚀 End-to-End ETF Data Pipeline using Python & Pandas
 
 This project is a simple ETL (Extract, Transform, Load) pipeline built using Python and Pandas.
 
