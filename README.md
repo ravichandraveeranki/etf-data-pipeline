@@ -18,5 +18,6 @@ This pipeline processes financial time-series data and computes daily returns fo
 - processed_data.csv → Output data
 
 ## 🔹 How to Run
+Run the pipelines using:
 ```bash
-python3 main.py
+python main.py SPY
