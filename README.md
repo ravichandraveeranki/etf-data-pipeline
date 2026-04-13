@@ -21,3 +21,11 @@ This pipeline processes financial time-series data and computes daily returns fo
 Run the pipelines using:
 ```bash
 python main.py SPY
+
+
+## 🔧 Features Added
+
+- CLI-based execution using `sys.argv`
+- Logging using Python `logging` module
+- Real-time financial data extraction using `yfinance`
+- Error handling and validation for invalid tickers
