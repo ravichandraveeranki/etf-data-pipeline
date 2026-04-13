@@ -1,4 +1,4 @@
-# 🚀 End-to-End ETF Data Pipeline using Python & Pandas
+# 🚀 End-to-End ETF Data Pipeline with Financial Analytics using Python & Pandas
 
 This project is a simple ETL (Extract, Transform, Load) pipeline built using Python and Pandas.
 This pipeline processes financial time-series data and computes daily returns for analysis.
