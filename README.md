@@ -21,6 +21,7 @@ This pipeline processes financial time-series data and computes daily returns fo
 Run the pipelines using:
 ```bash
 python main.py SPY
+```
 
 
 ##  Features Added
