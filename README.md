@@ -30,7 +30,6 @@ Then enter ticker when prompted (e.g., SPY, AAPL)
 
 ##  Features Added
 
-- CLI-based execution using `sys.argv`
 - Logging using Python `logging` module
 - Real-time financial data extraction using `yfinance`
 - Error handling and validation for invalid tickers
