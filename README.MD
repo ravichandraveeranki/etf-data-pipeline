@@ -33,3 +33,8 @@ python main.py AAPL
 ---
 
 ## 📂 Project Structure
+## 💡 Key Insight
+
+This project demonstrates how simple moving average-based strategies can generate trading signals, and how these signals can be evaluated using cumulative returns to assess performance.
+
+While simplistic, it provides a foundation for more advanced quantitative trading models.
