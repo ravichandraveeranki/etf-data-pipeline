@@ -1,0 +1,30 @@
+# 📈 ETF Trading Signal Pipeline (Python)
+
+## 🚀 Overview
+This project is an end-to-end ETL pipeline that extracts financial data, transforms it into meaningful features, generates trading signals, and visualizes strategy performance.
+
+It uses real market data to simulate a simple trading strategy based on moving averages.
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- yfinance
+- Matplotlib
+
+---
+
+## ⚙️ Features
+- 📊 Real-time data extraction using yfinance
+- 🔄 Data transformation & feature engineering
+- 📉 5-day moving average calculation
+- 📈 Volatility calculation (rolling standard deviation)
+- 💡 Trading signal generation (Buy/Sell)
+- 📉 Strategy backtesting with cumulative returns
+- 📊 Visualization of price, signals, and performance
+- 🧾 Logging using Python logging module
+
+---
+
+## 📂 Project Structure
