@@ -1,0 +1,38 @@
+2026-04-13 17:27:26,592 - INFO - ETL pipeline completed successfully.
+2026-04-13 17:28:54,089 - INFO - ETL pipeline completed successfully.
+2026-04-13 17:37:44,469 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 17:37:46,122 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:03:00,119 - INFO - Starting ETL for ticker: SPY
+2026-04-13 18:03:01,926 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:13:20,147 - INFO - Starting ETL for ticker: SPY
+2026-04-13 18:14:55,291 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:16:16,552 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:16:55,600 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:18:47,379 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:19:35,615 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:20:36,043 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:20:37,820 - ERROR - Error occurred:, Can only compare identically-labeled Series objects
+2026-04-13 18:23:07,731 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:23:09,369 - ERROR - Error occurred:, Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+2026-04-13 18:25:29,434 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:25:30,083 - ERROR - Error occurred:, Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+2026-04-13 18:32:49,682 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:32:50,643 - ERROR - Error occurred:, Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+2026-04-13 18:36:32,167 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:36:33,698 - ERROR - Error occurred:, 'DataFrame' object has no attribute 'reset_index_'
+2026-04-13 18:38:00,607 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:38:01,823 - ERROR - Error occurred:, Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+2026-04-13 18:40:47,737 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:40:49,023 - ERROR - Error occurred:, Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+2026-04-13 18:42:36,849 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:42:49,532 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:44:33,517 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:45:35,663 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:49:19,930 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:49:49,803 - ERROR - Error occurred: x and y must have same first dimension, but have shapes (61,) and (1,)
+2026-04-13 18:52:13,792 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:52:57,403 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:53:05,463 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:53:39,834 - INFO - ETL pipeline completed successfully.
+2026-04-13 18:54:49,938 - INFO - Starting ETL for ticker: AAPL
+2026-04-13 18:55:02,796 - INFO - ETL pipeline completed successfully.
