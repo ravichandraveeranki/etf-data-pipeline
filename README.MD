@@ -24,6 +24,11 @@ It uses real market data to simulate a simple trading strategy based on moving a
 - 📉 Strategy backtesting with cumulative returns
 - 📊 Visualization of price, signals, and performance
 - 🧾 Logging using Python logging module
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py AAPL
 
 ---
 
