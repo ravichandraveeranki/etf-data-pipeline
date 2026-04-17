@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+pipeline.log
+.env
+venv/
+.vscode/

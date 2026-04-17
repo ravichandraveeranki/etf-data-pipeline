@@ -9,7 +9,7 @@ This pipeline processes financial time-series data and computes daily returns fo
 - Loads processed data into a new CSV file
 
 ## 🔹 Tech Stack
-- Python
+ - Python
 - Pandas
 
 ## 🔹 Project Structure
